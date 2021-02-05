@@ -19,4 +19,5 @@ body {
   froat: bottom;
 h1 {
   padding: 500px 0px 0px 0px;
+  float: left;
 }
